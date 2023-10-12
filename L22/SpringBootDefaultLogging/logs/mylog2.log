@@ -1,0 +1,8 @@
+2023-10-12T19:03:49.300+03:00  WARN 8460 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is WARN
+2023-10-12T19:03:49.322+03:00 ERROR 8460 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is ERROR
+2023-10-12T19:03:49.524+03:00  WARN 8460 --- [http-nio-8080-exec-3] o.o.sblogging.controller.MainController  : This is WARN
+2023-10-12T19:03:49.525+03:00 ERROR 8460 --- [http-nio-8080-exec-3] o.o.sblogging.controller.MainController  : This is ERROR
+2023-10-12T19:04:55.720+03:00  WARN 3184 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is WARN
+2023-10-12T19:04:55.721+03:00 ERROR 3184 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is ERROR
+2023-10-12T19:04:55.804+03:00  WARN 3184 --- [http-nio-8080-exec-2] o.o.sblogging.controller.MainController  : This is WARN
+2023-10-12T19:04:55.804+03:00 ERROR 3184 --- [http-nio-8080-exec-2] o.o.sblogging.controller.MainController  : This is ERROR
